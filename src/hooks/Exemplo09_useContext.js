@@ -1,7 +1,7 @@
 // Importar módulos
 import React, { createContext, useContext, useState } from "react";
 
-//Criar Contexto (Local onde-se pode especificar states, variáveis, funções e etc de maneira global)
+//Criar Contexto (Local onde-se pode especificar estados, variáveis, funções e etc de maneira global)
 const Contexto = createContext();
 
 // Componente Principal
