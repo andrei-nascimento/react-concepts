@@ -12,7 +12,7 @@ function Exemplo03_useState() {
     let media = (nota1 + nota2) / 2;
 
     //Situação
-    let situacao = media >= 7 ? 'Aprovado(a)' : 'Reprovado(a)'
+    let situacao = media >= 7 ? 'Aprovado(a)' : 'Reprovado(a)';
 
     //Retorno
     return(
